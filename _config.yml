@@ -1,0 +1,34 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Miguel Á. Labrador-Espinosa
+tagline:          'A personal website.'
+description:      'Neuroscience & Biomedical Engineering'
+url:              https://mlabesp.github.io/
+baseurl:          https://mlabesp.github.io/
+
+author:
+  name:           'Miguel Á. Labrador-Espinosa'
+  url:            https://mlabesp.github.io/
+  twitter:        https://twitter.com/mlabesp
+  scholar:        https://scholar.google.es/citations?user=VkR4l_0AAAAJ&hl=es
+  linkedin:       https://www.linkedin.com/in/mlabesp/
+  instagram:      https://www.instagram.com/miquelcorleone/
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/mlabesp/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+  - kramdown

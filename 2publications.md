@@ -13,6 +13,15 @@ title: Publications
 
 ## Contributor author
 
+* Jesús S, **Labrador-Espinosa MA**, Adarmes AD, Méndel-Del Barrio C, Martínez-
+Castrillo JC, Alonso-Cánovas A, Sánchez Alonso P, Novo-Ponte S, Alonso-Losada
+MG, López Ariztegui N, Segundo Rodríguez JC, Morales MI, Gastón I, Lacruz Bescos
+F, Clavero Ibarra P, Kulisevsky J, Pagonabarraga J, Pascual-Sedano B, Martínez-
+Martín P, Santos-García D, Mir P; COPPADIS Study Group. Non-motor symptom burden
+in patients with Parkinson's disease with impulse control disorders and
+compulsive behaviours: results from the COPPADIS cohort. Sci Rep. 2020 Oct
+9;10(1):16893. [doi: 10.1038/s41598-020-73756-z](https://pubmed.ncbi.nlm.nih.gov/33037247/)
+
 * Periñán MT, Macías-García D, **Labrador-Espinosa MA**, Jesús S, Buiza-Rueda D, Adarmes-Gómez AD, Muñoz-Delgado L, Gómez-Garre P, Mir P. Association of PICALM with Cognitive Impairment in Parkinson's Disease. Mov Disord. 2020 Sep 11. [doi: 10.1002/mds.28283](https://pubmed.ncbi.nlm.nih.gov/32914893/)
 
 * Macías-García D, Méndez-Del Barrio C, Jesús S, **Labrador-Espinosa MA**, Adarmes-Gómez A, Vargas-González L, Carrillo F, Gómez-Garre P, Mir P. Increased bilirubin levels in Parkinson's disease. Parkinsonism Relat Disord. 2019 Jun;63:213-216. [doi: 10.1016/j.parkreldis.2019.01.012](https://pubmed.ncbi.nlm.nih.gov/30661841/)

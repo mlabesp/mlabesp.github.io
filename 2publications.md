@@ -13,7 +13,7 @@ title: Publications
 
 ## Contributor author
 
-* Jesús S, Periñán MT, Cortes C, Buiza-Rueda D, Macías-García D, Adarmes A, Muñoz-Delgado L, **Labrador-Espinosa MÁ**, Tejera-Parrado C, Gómez-Garre MP, Mir P. Integrating genetic and clinical data to predict impulse control disorders in Parkinson's disease. Eur J Neurol. 2020 Oct 13. doi: 10.1111/ene.14590. Epub ahead of print. PMID: 33051953.
+* Jesús S, Periñán MT, Cortes C, Buiza-Rueda D, Macías-García D, Adarmes A, Muñoz-Delgado L, **Labrador-Espinosa MÁ**, Tejera-Parrado C, Gómez-Garre MP, Mir P. Integrating genetic and clinical data to predict impulse control disorders in Parkinson's disease. Eur J Neurol. 2020 Oct 13. [doi: 10.1111/ene.14590.](https://pubmed.ncbi.nlm.nih.gov/33051953/)
 
 * Jesús S, **Labrador-Espinosa MA**, Adarmes AD, Méndel-Del Barrio C, Martínez-Castrillo JC, Alonso-Cánovas A, Sánchez Alonso P, Novo-Ponte S, Alonso-Losada
 MG, López Ariztegui N, Segundo Rodríguez JC, Morales MI, Gastón I, Lacruz Bescos F, Clavero Ibarra P, Kulisevsky J, Pagonabarraga J, Pascual-Sedano B, Martínez- Martín P, Santos-García D, Mir P; COPPADIS Study Group. Non-motor symptom burden in patients with Parkinson's disease with impulse control disorders and compulsive behaviours: results from the COPPADIS cohort. Sci Rep. 2020 Oct 9;10(1):16893. [doi: 10.1038/s41598-020-73756-z](https://pubmed.ncbi.nlm.nih.gov/33037247/)
